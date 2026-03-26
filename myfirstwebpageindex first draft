@@ -10,6 +10,8 @@
     <p>I am attempting to <b><em>make it in accordance with</em></b> my current homework assignment.</p>
     <p><b>More</b> information about me will be available in <em>other</em> sections.</p>
     <p><b><em>Study</em></b> - <em>Admiral Hyman G. Rickover.</em></p>
-    <a href="about.html'>about<a/>
+    <a href="about.html">about<a/>
+    <br>
+    <a href="resume.html">myresume</a>
   </body>
 </html>
