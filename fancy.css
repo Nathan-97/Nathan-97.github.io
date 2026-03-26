@@ -1,7 +1,7 @@
 p {
-  font-family: Arial;
-  font-size: 14pt;
+  font-family: Arial; !important;
+  font-size: 14pt; !important;
 }
-h1, h2, h3, h4 {font-size: 16pt;}
-a { color: #fe019a; }
-body { background-color: #8c939f; }
+h1, h2, h3, h4 {font-size: 16pt; !important;}
+a { color: #fe019a; !imporetant;}
+body { background-color: #8c939f; !important;}
