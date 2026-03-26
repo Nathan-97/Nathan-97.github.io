@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <title>My First Webpage</title>
+    <link rel="stylesheet" type="text/css' href="fancy.css">
+  </head>
+  <body>
+    <h1>My name is Nathan</h1>
+    <p><em>This</em> is my <b>First</b> Web Page.</P>
+    <p>I am attempting to <b><em>make it in accordance with</em></b> my current homework assignment.</p>
+    <p><b>More</b> information about me will be available in <em>other</em> sections.</p>
+    <p><b><em>Study</em></b> - <em>Admiral Hyman G. Rickover.</em></p>
+    <a href="about.html'>about<a/>
+  </body>
+</html>
